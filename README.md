@@ -1,5 +1,5 @@
 # awsome-fe
-前端知识储备
+前端知识储备，收集博客和文章。
 
 ## 博客
 * [阮一峰的网络日志](https://www.ruanyifeng.com/blog/javascript/)
