@@ -15,5 +15,8 @@
 
 ### 4. 柯里化
 
+### 5. Web Component
+* [Web Components 入门实例教程](https://www.ruanyifeng.com/blog/2019/08/web_components.html)
+
 ## Nginx
 1. [一份简单够用的 Nginx Location 配置讲解](https://github.com/mqyqingfeng/Blog/issues/242)
