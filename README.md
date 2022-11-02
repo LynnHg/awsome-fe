@@ -6,6 +6,8 @@
 
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/javascript/)
 
+- [张鑫旭的个人主页](https://www.zhangxinxu.com/)
+
 ## JavaScript
 
 ### 1. Event Loop
@@ -33,17 +35,28 @@
 
 1. [一份简单够用的 Nginx Location 配置讲解](https://github.com/mqyqingfeng/Blog/issues/242)
 
-## 实用工具
+## 实用工具合集
 
-### 1. 图片在线压缩
+### 未分类
 
-- [tinypng](https://tinypng.com/)
+- [多端 UI 测试](https://responsively.app/)
 
-### 2. 在线编辑代码
+### 1. 在线压缩 / 在线格式化 / 在线 coding
 
-- [码上掘金](https://code.juejin.cn/)
+- ⚡️[图片在线压缩 - tinypng](https://tinypng.com/)
 
-### 3. 格式化工具
+- ⚡️[图片在线压缩 - squoosh](https://squoosh.app/)
+
+- 👨‍💻[在线编辑代码 - 码上掘金](https://code.juejin.cn/)
+
+- [代码片段生成图片](https://carbon.now.sh/)
 
 - [json 格式化 - json.cn](https://www.json.cn/)
-- [格式化工具合集](https://smalldev.tools/)
+
+- [格式化工具合集 ](https://smalldev.tools/)
+
+### 2. 表情符号 / 图片 / 素材
+
+- 😀[emoji 中文网](https://www.emojiall.com/zh-hans)
+
+- [404 页面素材](https://error404.fun/)
