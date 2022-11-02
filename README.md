@@ -32,3 +32,18 @@
 ## Nginx
 
 1. [一份简单够用的 Nginx Location 配置讲解](https://github.com/mqyqingfeng/Blog/issues/242)
+
+## 实用工具
+
+### 1. 图片在线压缩
+
+- [tinypng](https://tinypng.com/)
+
+### 2. 在线编辑代码
+
+- [码上掘金](https://code.juejin.cn/)
+
+### 3. 格式化工具
+
+- [json 格式化 - json.cn](https://www.json.cn/)
+- [格式化工具合集](https://smalldev.tools/)
