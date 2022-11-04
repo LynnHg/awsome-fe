@@ -40,7 +40,7 @@
 ### 未分类
 
 - 💻️ [多端 UI 测试](https://responsively.app/)
-- [在线学git](https://learngitbranching.js.org/?locale=zh_CN)
+
 
 ### 1. 在线压缩 / 在线格式化 / 在线 coding
 
@@ -49,6 +49,7 @@
 - ⚡️ [图片在线压缩 - squoosh](https://squoosh.app/)
 
 - 👨‍💻 [在线编辑代码 - 码上掘金](https://code.juejin.cn/)
+- 👨‍💻 [在线学git](https://learngitbranching.js.org/?locale=zh_CN)
 
 - 👨‍💻 [代码片段生成图片](https://carbon.now.sh/)
 
