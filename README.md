@@ -40,6 +40,7 @@
 ### 未分类
 
 - 💻️ [多端 UI 测试](https://responsively.app/)
+- 📚 [电子书汇总 - 书栈网](https://www.bookstack.cn/explore?cid=18&tab=popular)
 
 
 ### 1. 在线压缩 / 在线格式化 / 在线 coding
