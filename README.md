@@ -8,6 +8,8 @@
 
 - [张鑫旭的个人主页](https://www.zhangxinxu.com/)
 
+- [被删的前端游乐场](https://godbasin.github.io/front-end-playground/)
+
 ## JavaScript
 
 ### 1. Event Loop
