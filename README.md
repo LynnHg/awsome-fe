@@ -28,11 +28,19 @@
 
 - [Web Components 入门实例教程](https://www.ruanyifeng.com/blog/2019/08/web_components.html)
 
+### 6. 模块化
+
+- [CommonJS, AMD, CMD, ES6](https://juejin.cn/post/6844903576309858318)
+- [ES6 模块与 CommonJS 模块的差异](https://wangdoc.com/es6/module-loader#es6-%E6%A8%A1%E5%9D%97%E4%B8%8E-commonjs-%E6%A8%A1%E5%9D%97%E7%9A%84%E5%B7%AE%E5%BC%82)
+
 ## TypeScript
 
 ## 安全
+
 ### 1. 对称和非对称加密
+
 - [通俗易懂的对称加密与非对称加密原理浅析](https://juejin.cn/post/6964558725839339533)
+
 ## Vue
 
 ## Node
@@ -48,7 +56,6 @@
 - 💻️ [多端 UI 测试](https://responsively.app/)
 - 📚 [电子书汇总 - 书栈网](https://www.bookstack.cn/explore?cid=18&tab=popular)
 
-
 ### 1. 在线压缩 / 在线格式化 / 在线 coding
 
 - ⚡️ [图片在线压缩 - tinypng](https://tinypng.com/)
@@ -56,7 +63,7 @@
 - ⚡️ [图片在线压缩 - squoosh](https://squoosh.app/)
 
 - 👨‍💻 [在线编辑代码 - 码上掘金](https://code.juejin.cn/)
-- 👨‍💻 [在线学git](https://learngitbranching.js.org/?locale=zh_CN)
+- 👨‍💻 [在线学 git](https://learngitbranching.js.org/?locale=zh_CN)
 
 - 👨‍💻 [代码片段生成图片](https://carbon.now.sh/)
 
