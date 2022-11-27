@@ -17,22 +17,22 @@
 
 ## 🏷️ JavaScript
 
-### Event Loop
+### 1. Event Loop
 
 - [tasks-microtasks-queues-and-schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 - [JavaScript 运行机制详解：再谈 Event Loop](https://www.ruanyifeng.com/blog/2014/10/event-loop.html)
 
-### 闭包
+### 2. 闭包
 
-### 原型
+### 3. 原型
 
-### 柯里化
+### 4. 柯里化
 
-### Web Component
+### 5. Web Component
 
 - [Web Components 入门实例教程](https://www.ruanyifeng.com/blog/2019/08/web_components.html)
 
-### 模块化
+### 6. 模块化
 
 - [CommonJS, AMD, CMD, ES6](https://juejin.cn/post/6844903576309858318)
 - [ES6 模块与 CommonJS 模块的差异](https://wangdoc.com/es6/module-loader#es6-%E6%A8%A1%E5%9D%97%E4%B8%8E-commonjs-%E6%A8%A1%E5%9D%97%E7%9A%84%E5%B7%AE%E5%BC%82)
@@ -41,7 +41,7 @@
 
 ## 🏷️ 安全
 
-### 对称和非对称加密
+### 1. 对称和非对称加密
 
 - [通俗易懂的对称加密与非对称加密原理浅析](https://juejin.cn/post/6964558725839339533)
 
@@ -49,7 +49,7 @@
 
 ## 🏷️ Node
 
-### 工具使用
+### 1. 工具使用
 
 - 📙 [npx 使用教程](https://www.ruanyifeng.com/blog/2019/02/npx.html)
 
@@ -59,12 +59,12 @@
 
 ## 🏷️ 实用工具合集
 
-### 未分类
+### 1. 未分类
 
 - 💻️ [多端 UI 测试](https://responsively.app/)
 - 📚 [电子书汇总 - 书栈网](https://www.bookstack.cn/explore?cid=18&tab=popular)
 
-### 在线压缩 / 在线格式化 / 在线 coding
+### 2. 在线压缩 / 在线格式化 / 在线 coding
 
 - ⚡️ [图片在线压缩 - tinypng](https://tinypng.com/)
 
@@ -79,7 +79,7 @@
 
 - ⚙️ [格式化工具合集 ](https://smalldev.tools/)
 
-### 表情符号 / 图片 / 素材
+### 3. 表情符号 / 图片 / 素材
 
 - 😀 [emoji 中文网](https://www.emojiall.com/zh-hans)
 
@@ -87,7 +87,7 @@
 
 ## 🏷️ Linux
 
-### 基础
+### 1. 基础
 
 - 💻 [Redhat 与 Debian 系介绍(Linux 各种发行版本概述)](https://blog.csdn.net/ithomer/article/details/9729933)
 - 💻 [Redhat 与 Debian 系介绍(Linux 各种发行版本概述)](https://blog.csdn.net/ithomer/article/details/9729933)
