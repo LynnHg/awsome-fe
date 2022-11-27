@@ -1,8 +1,8 @@
-# 🏷️ 基础
+# 基础
 
 - `docker run -dit --name docer-name IMAGE` 运行一个在后台执行的容器，同时还能用控制台管理
 
-# 🏷️ 镜像
+# 镜像
 
 ## 删除镜像
 
@@ -10,7 +10,7 @@
 - `docker rmi -f IMAGE IMAGE IMAGE ` 同时删除多个镜像
 - `docker rmi -f $(docker images -aq)` 强制删除全部镜像
 
-# 🏷️ 容器
+# 容器
 
 ## 查看容器
 
@@ -32,15 +32,15 @@
 
 ## 删除容器
 
-`docker rm -f CONTAINER` 强制删除指定容器
-`docker rm -f $(docker ps -aq)` 强制删除所有容器
-`docker ps -a -q|xargs docker rm -f` 强制删除所有容器
+- `docker rm -f CONTAINER` 强制删除指定容器
+- `docker rm -f $(docker ps -aq)` 强制删除所有容器
+- `docker ps -a -q|xargs docker rm -f` 强制删除所有容器
 
 ## 退出容器
 
 - `exit` 直接停止容器并退出
 - `ctrl + p + q` 不停止容器，只退出
 
-## 🏷️ 官方
+## 官方
 
 - [更多命令](https://docs.docker.com/engine/reference/commandline/docker/)
