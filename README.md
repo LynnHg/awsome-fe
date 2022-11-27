@@ -39,12 +39,6 @@
 
 ## 🏷️ TypeScript
 
-## 🏷️ 安全
-
-### 1. 对称和非对称加密
-
-- [通俗易懂的对称加密与非对称加密原理浅析](https://juejin.cn/post/6964558725839339533)
-
 ## 🏷️ Vue
 
 ## 🏷️ Node
@@ -53,9 +47,30 @@
 
 - 📙 [npx 使用教程](https://www.ruanyifeng.com/blog/2019/02/npx.html)
 
+## 🏷️ 安全
+
+### 1. 对称和非对称加密
+
+- [通俗易懂的对称加密与非对称加密原理浅析](https://juejin.cn/post/6964558725839339533)
+
+## 🏷️ Docker
+
+- [Docker 容器互访三种方式](https://www.cnblogs.com/shenh/p/9714547.html)
+- [Docker 网络:bridge 模式](https://www.cnblogs.com/freeaihub/p/13206077.html)
+
 ## 🏷️ Nginx
 
-1. [一份简单够用的 Nginx Location 配置讲解](https://github.com/mqyqingfeng/Blog/issues/242)
+- [一份简单够用的 Nginx Location 配置讲解](https://github.com/mqyqingfeng/Blog/issues/242)
+
+## 🏷️ Linux
+
+### 1. 基础
+
+- 💻 [Redhat 与 Debian 系介绍(Linux 各种发行版本概述)](https://blog.csdn.net/ithomer/article/details/9729933)
+- 💻 [Redhat 与 Debian 系介绍(Linux 各种发行版本概述)](https://blog.csdn.net/ithomer/article/details/9729933)
+- 💻 [Linux 包管理基础：apt、yum、dnf 和 pkg](https://linux.cn/article-8782-1.html)
+- 💻 [Linux 软件包管理快速入门对照：apt、brew、pkg、yum](https://blog.csdn.net/netgc/article/details/118418402)
+- 💻 [Linux 中的 shell 和 bash](https://www.cnblogs.com/csnd/p/11807739.html)
 
 ## 🏷️ 实用工具合集
 
@@ -84,13 +99,3 @@
 - 😀 [emoji 中文网](https://www.emojiall.com/zh-hans)
 
 - 🤪 [404 页面素材](https://error404.fun/)
-
-## 🏷️ Linux
-
-### 1. 基础
-
-- 💻 [Redhat 与 Debian 系介绍(Linux 各种发行版本概述)](https://blog.csdn.net/ithomer/article/details/9729933)
-- 💻 [Redhat 与 Debian 系介绍(Linux 各种发行版本概述)](https://blog.csdn.net/ithomer/article/details/9729933)
-- 💻 [Linux 包管理基础：apt、yum、dnf 和 pkg](https://linux.cn/article-8782-1.html)
-- 💻 [Linux 软件包管理快速入门对照：apt、brew、pkg、yum](https://blog.csdn.net/netgc/article/details/118418402)
-- 💻 [Linux 中的 shell 和 bash](https://www.cnblogs.com/csnd/p/11807739.html)
