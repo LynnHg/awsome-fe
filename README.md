@@ -3,7 +3,7 @@
 前端知识储备，收集博客和文章。  
 🚀 持续更新...
 
-# 🏷️ 博客
+# 博客
 
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/javascript/)
 
@@ -11,11 +11,11 @@
 
 - [被删的前端游乐场](https://godbasin.github.io/front-end-playground/)
 
-# 🏷️ HTML
+# HTML
 
-# 🏷️ CSS
+# CSS
 
-# 🏷️ JavaScript
+# JavaScript
 
 ## 1. Event Loop
 
@@ -37,33 +37,33 @@
 - [CommonJS, AMD, CMD, ES6](https://juejin.cn/post/6844903576309858318)
 - [ES6 模块与 CommonJS 模块的差异](https://wangdoc.com/es6/module-loader#es6-%E6%A8%A1%E5%9D%97%E4%B8%8E-commonjs-%E6%A8%A1%E5%9D%97%E7%9A%84%E5%B7%AE%E5%BC%82)
 
-# 🏷️ TypeScript
+# TypeScript
 
-# 🏷️ Vue
+# Vue
 
-# 🏷️ Node
+# Node
 
 ## 1. 工具使用
 
 - 📙 [npx 使用教程](https://www.ruanyifeng.com/blog/2019/02/npx.html)
 
-# 🏷️ 安全
+# 安全
 
 ## 1. 对称和非对称加密
 
 - [通俗易懂的对称加密与非对称加密原理浅析](https://juejin.cn/post/6964558725839339533)
 
-# 🏷️ Docker
+# Docker
 
 - [Docker 常用命令](mds/docker/Docker%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
 - [Docker 容器互访三种方式](https://www.cnblogs.com/shenh/p/9714547.html)
 - [Docker 网络:bridge 模式](https://www.cnblogs.com/freeaihub/p/13206077.html)
 
-# 🏷️ Nginx
+# Nginx
 
 - [一份简单够用的 Nginx Location 配置讲解](https://github.com/mqyqingfeng/Blog/issues/242)
 
-# 🏷️ Linux
+# Linux
 
 ## 1. 基础
 
@@ -73,7 +73,7 @@
 - 💻 [Linux 软件包管理快速入门对照：apt、brew、pkg、yum](https://blog.csdn.net/netgc/article/details/118418402)
 - 💻 [Linux 中的 shell 和 bash](https://www.cnblogs.com/csnd/p/11807739.html)
 
-# 🏷️ 实用工具合集
+# 实用工具合集
 
 ## 1. 未分类
 
